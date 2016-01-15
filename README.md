@@ -1,4 +1,6 @@
 # SynCod
 
 ## User Guide
-uyguyg
+
+
+#### Info
